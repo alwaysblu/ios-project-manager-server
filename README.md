@@ -4,7 +4,7 @@
 
 
 
-### Commit Convention
+### < Commit Convention >
 
 Type|Emoji|Description
 :---|:---:|:---
