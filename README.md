@@ -20,4 +20,8 @@ Rename    |🚚| 파일 혹은 폴더명을 수정하거나 옮기는 작업만�
 Remove    |🔥| 파일을 삭제하는 작업만 수행한 경우
 
 
-```ex: ✨ [Feat] : Vapor App 베포함```
+```
+ex) 
+
+✨ [Feat] : Vapor App 베포함
+```
