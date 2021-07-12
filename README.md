@@ -1,10 +1,20 @@
-## iOS 커리어 스타터 캠프
 
-### 프로젝트 관리 앱 서버 프로젝트 저장소
-
+# vapor와 heroku를 이용한 API 서버 구현
 
 
-### < Commit Convention >
+
+## 📌 학습 키워드
+
+* REST를 고려한 API 설계
+* Request/Response body의 각각 키에 해당하는 데이터 타입 정의
+* HTTP 상태 코드 및 메세지 활용
+* Heroku 배포
+* Fluent ORM을 활용하여 SQL 입력 없이 DB 테이블 생성
+* Model과 DTO(Data Transfer Object)의 정의와 활용
+* EventLoopFuture 타입의 이해와 활용
+* AbortError 타입의 정의와 
+
+##📌 Commit Convention 
 
 Type|Emoji|Description
 :---|:---:|:---
@@ -25,6 +35,26 @@ ex)
 
 ✨ [Feat] : Vapor App 베포함
 ```
+
+<br>
+
+## 📌 Pull Request
+
+* [Step 1](https://github.com/yagom-academy/ios-project-manager-server/pull/20)
+* [Step 2](https://github.com/yagom-academy/ios-project-manager-server/pull/24)
+* [Step 3](https://github.com/yagom-academy/ios-project-manager-server/pull/29)
+
+<br>
+
+## 📌 API 문서
+
+[작성한 API 문서](https://docs.google.com/spreadsheets/d/1PTOGFh9kAbBUtQZ0pqC8j2-oCjURtjUnjwxA2t6TlAU/edit#gid=0)
+
+[API 문서 다운로드](https://github.com/alwaysblu/ios-project-manager-server/blob/main/API_Document.pdf)
+
+<br>
+
+## 📌 구현 사항
 
 ### 실행
 
