@@ -12,7 +12,7 @@
 * Fluent ORM을 활용하여 SQL 입력 없이 DB 테이블 생성
 * Model과 DTO(Data Transfer Object)의 정의와 활용
 * EventLoopFuture 타입의 이해와 활용
-* AbortError 타입의 정의와 
+* AbortError 타입의 정의와 활용
 
 
 ## 📌 Commit Convention 
