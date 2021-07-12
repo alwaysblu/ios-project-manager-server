@@ -83,7 +83,7 @@ Body에 넣어주면 status code와 message를 알기위해서 일일히 파싱�
 
 ## 📌 구현 사항
 
-### 실행
+### < 실행 >
 
 #### 실패 조건
 
@@ -96,7 +96,7 @@ Body에 넣어주면 status code와 message를 알기위해서 일일히 파싱�
 
 
 
-### POST
+### < POST >
 
 #### 성공
 
@@ -127,7 +127,7 @@ Body에 넣어주면 status code와 message를 알기위해서 일일히 파싱�
 
 ------
 
-### PATCH
+### < PATCH >
 
 #### 성공
 
@@ -168,7 +168,7 @@ Body에 넣어주면 status code와 message를 알기위해서 일일히 파싱�
 
 ------
 
-### DELETE
+### < DELETE >
 
 #### 성공
 
