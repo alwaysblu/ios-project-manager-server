@@ -103,10 +103,11 @@ ex)
 
 - 좌 (PATCH) - 수정
 
-<left><img src="https://user-images.githubusercontent.com/75533266/125306982-a0475500-e36a-11eb-92c7-03c32ae495b4.png" alt="image-20210706155611151" style="zoom:40%;" /><left><img src="https://user-images.githubusercontent.com/75533266/125307015-a6d5cc80-e36a-11eb-96f8-c9939b40a4d5.png" alt="image-20210706155718973" style="zoom:41%;" />
-  ![image-20210706155611151](https://user-images.githubusercontent.com/75533266/125306982-a0475500-e36a-11eb-92c7-03c32ae495b4.png)
-![image-20210706155718973](https://user-images.githubusercontent.com/75533266/125307015-a6d5cc80-e36a-11eb-96f8-c9939b40a4d5.png)
+<left><img src="https://user-images.githubusercontent.com/75533266/125306982-a0475500-e36a-11eb-92c7-03c32ae495b4.png" width="35%"><left><img src="https://user-images.githubusercontent.com/75533266/125307015-a6d5cc80-e36a-11eb-96f8-c9939b40a4d5.png" alt="image-20210706155718973" width="55%">
+  
 
+  
+  
 
 ------
 
