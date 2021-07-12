@@ -14,7 +14,8 @@
 * EventLoopFuture 타입의 이해와 활용
 * AbortError 타입의 정의와 
 
-##📌 Commit Convention 
+
+## 📌 Commit Convention 
 
 Type|Emoji|Description
 :---|:---:|:---
