@@ -3,7 +3,7 @@
 
 
 
-## 📌  키워드
+## 📌 핵심 키워드
 
 * REST를 고려한 API 설계
 * Request/Response body의 각각 키에 해당하는 데이터 타입 정의
